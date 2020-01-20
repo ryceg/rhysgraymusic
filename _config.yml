@@ -12,7 +12,7 @@
 #    `--'   `----''--'   '--' `--'
 
 
-
+theme: jekyll-text-theme
 
 ## => Site Settings
 ##############################
@@ -22,7 +22,7 @@ url     : http://www.rhysgraymusic.com
 baseurl : # does not include hostname
 title   : Your Site Title
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Composer, musician, person.
 
 
 ## => Language and Timezone
