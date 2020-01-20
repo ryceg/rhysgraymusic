@@ -1,0 +1,187 @@
+{
+  "basics": {
+    "name": "Rhys Gray",
+    "label": "Composer",
+    "picture": "",
+    "email": "contact@rhysgraymusic.com",
+    "phone": "0438870190",
+    "website": "rhysgraymusic.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hobart",
+      "countryCode": "AU",
+      "region": "Tasmania"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "rhysgraycomposer",
+        "url": "www.facebook.com/rhysgraycomposer"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "rhysgray",
+        "url": "https://soundcloud.com/rhysgray"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Tasmania Symphony Orchestra",
+      "position": "Casual Library Assistant",
+      "website": "www.tso.com.au",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": "Music preparation and engraving.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Tasmania University Union",
+      "position": "Conservatorium Representative",
+      "website": "www.tuu.com.au",
+      "startDate": "2015-1-12",
+      "endDate": "2017-1-12",
+      "summary": "Representing the Conservatorium in the peak student body organisation at the University of Tasmania",
+      "highlights": [
+        "Hosted Alexander Technique physiotherapy workshops",
+        "Organised the Australian tour of the documentary 'Composed', a film about performance anxiety in classical musicians."
+      ]
+    },
+    {
+      "organization": "Musicians Society",
+      "position": "Founding President",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "",
+      "summary": "Founded the Tasmania University Union Musician's Society, the peak body of representation for musicians in the UTas community.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Tasmania",
+      "area": "Creative Arts",
+      "studyType": "Bachelor",
+      "startDate": "2014",
+      "endDate": "2018",
+      "gpa": "4.0",
+      "courses": [
+        "Orchestration",
+        "Composition",
+        "Music Theory",
+        "Music History"
+      ]
+    },
+    {
+      "institution": "University of Tasmania",
+      "area": "Creative Arts",
+      "studyType": "Associate's Degree",
+      "startDate": "2015",
+      "endDate": "2018",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Susan Williams Prize For TCE Music",
+      "date": "2014",
+      "awarder": "Tasmania Symphony Orchestra",
+      "summary": "Awarded for the highest score in TCE music examinations."
+    },
+    {
+      "title": " Don Kay Music Scholarship",
+      "date": "2015",
+      "awarder": "University of Tasmania",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Competent",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Composition",
+      "level": "Master",
+      "keywords": [
+        "Harmony",
+        "Theory",
+        "Arranging",
+        "SuperCollider"
+      ]
+    },
+    {
+      "name": "Music Preparation",
+      "level": "Master",
+      "keywords": [
+        "Sibelius",
+        "Dorico",
+        "Orchestration",
+        "Arranging",
+        "Engraving"
+      ]
+    },
+    {
+      "name": "Pianist",
+      "level": "Intermediate",
+      "keywords": [
+        "Harmony",
+        "Theory",
+        "Practical skills",
+        "MainStage"
+      ]
+    },
+    {
+      "name": "Conductor",
+      "level": "Competent",
+      "keywords": [
+        "Harmony",
+        "Practical Skills",
+        "MainStage",
+        "RMS"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Competent",
+      "keywords": [
+        "LaTeX",
+        "SuperCollider",
+        "JavaScript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Self-sustainability",
+      "keywords": [
+        "Brewing",
+        "Baking",
+        "Gardening"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
